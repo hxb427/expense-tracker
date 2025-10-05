@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1759579490,
+    "amount": 11.0,
+    "category": "Entertainment",
+    "note": "22",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 1759579491,
+    "amount": 333.0,
+    "category": "Travel",
+    "note": "222",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 1759579492,
+    "amount": 100,
+    "category": "Food",
+    "note": "Test expense",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 1759579493,
+    "amount": 45.5,
+    "category": "Groceries",
+    "note": "Weekly veggies",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 1759579494,
+    "amount": 1200,
+    "category": "Rent",
+    "note": "October rent",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 1759579495,
+    "amount": 59.99,
+    "category": "Utilities",
+    "note": "Internet bill",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 1759579496,
+    "amount": 15,
+    "category": "Transport",
+    "note": "Bus pass",
+    "date": "2025-10-05"
+  }
+]
